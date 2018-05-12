@@ -1,0 +1,31 @@
+_repo: At-a-Winter-s-Fire_14045
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Capes, Bernard Edward Joseph
+    birthdate: 1854
+    deathdate: 1918
+    gutenberg_agent_id: '5344'
+    url: http://www.gutenberg.org/2009/agents/5344
+    wikipedia: http://en.wikipedia.org/wiki/Bernard_Capes
+description: ''
+gutenberg_issued: '2004-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14045'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PR'
+- !lcsh 'Fantasy fiction, English'
+tableOfContents: The moon stricken -- Jack and Jill -- The vanishing house -- Dark
+  Dignum -- William Tyrwhitt's "copy" -- A lazy romance -- Black Venn -- An eddy on
+  the floor -- Dinah's mammoth -- The black reaper -- A voice from the pit.
+title: At a Winter's Fire
+url: http://www.gutenberg.org/ebooks/14045
